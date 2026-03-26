@@ -1,2 +1,2 @@
 # Test2
-This is a test repository
+This is to set up a working server.
